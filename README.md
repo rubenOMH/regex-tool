@@ -1,12 +1,12 @@
 # Regex.com.mx
 
-Este repositorio actualmente tiene como único propósito para monitorear reportes de errores o nuevas mejoras de https://regex.com.mx
+This repository currently has the sole purpose of monitoring bug reports or new features on https://regex.com.mx
 
-## Documentación
+## Docs
 
-Aquí podrás encontrar links directors a nuestra wiki:
+Here you can find direct links to our wiki:
 - [TBD](https://regex.com.mx)
 
-# Patrocinadores
+# Sponsors
 
-Especial agradecimiento a nuestros patrocinadores! 👏🏼 Muchas gracias.
+Special thanks to our sponsors! 👏🏼 Thank you very much.
