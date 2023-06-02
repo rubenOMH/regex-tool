@@ -1,11 +1,11 @@
-# Regex.com.mx
+# Regex tool by [yakarta.dev](https://regex.yakarta.dev)
 
-This repository currently has the sole purpose of monitoring bug reports or new features on https://regex.com.mx
+This repository currently has the sole purpose of monitoring bug reports or new features.
 
 ## Docs
 
 Here you can find direct links to our wiki:
-- [TBD](https://regex.com.mx)
+- [TBD](https://regex.yakarta.dev)
 
 # Sponsors
 
